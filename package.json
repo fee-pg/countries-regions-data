@@ -1,0 +1,19 @@
+{
+  "name": "countries-regions-data",
+  "version": "1.0.0",
+  "description": "A source list of countries, regions and phone_number in JSON format.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fee-pg/countries-regions-data.git"
+  },
+  "author": "fee-pg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fee-pg/countries-regions-data/issues"
+  },
+  "homepage": "https://github.com/fee-pg/countries-regions-data#readme"
+}
