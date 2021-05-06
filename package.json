@@ -1,7 +1,7 @@
 {
   "name": "countries-regions-data",
   "version": "1.0.0",
-  "description": "A source list of countries, regions and phone_number in JSON format.",
+  "description": "A list of \"countries and regions\" containing id, Chinese name, English name, and cell phone area code.",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

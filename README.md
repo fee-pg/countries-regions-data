@@ -1,3 +1,8 @@
 # countries-regions-data
 
-A source list of countries, regions and phone_number in JSON format.
+A list of "countries and regions" containing id, Chinese name, English name, and cell phone area code.
+
+### install
+```
+yarn add countries-regions-data
+```
